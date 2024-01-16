@@ -1,2 +1,5 @@
-# generate-music-audiocraft-musicgen
- Generate music from text and melody with AudioCraft MusicGen.
+# generate-audio-audiocraft
+ Generate audio from text and melody with AudioCraft models.
+
+- AudioGen
+- MusicGen
